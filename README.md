@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,004 · **Forks**: 212 · **Open issues**: 200 · **Contributors**: 50
+- **Stars**: 5,005 · **Forks**: 211 · **Open issues**: 200 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 0 | 0 | 4 | 0 | 1 | 0 |
-| 360d | 2025-11-11 | 0 | 0 | 17 | 1 | 1 | 0 |
-| last720d | 2024-11-16 | 0 | 2 | 18 | 2 | 10 | 8 |
+| 30d | 2026-10-08 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 360d | 2025-11-12 | 0 | 0 | 17 | 1 | 1 | 0 |
+| last720d | 2024-11-17 | 0 | 2 | 18 | 2 | 10 | 8 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for MonkeyType lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:21:20Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:35:17Z._

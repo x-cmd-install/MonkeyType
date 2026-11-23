@@ -30,9 +30,9 @@ Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
 
 ## Source
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,003 · **Forks**: 211 · **Open issues**: 200 · **Contributors**: 50
+- **Stars**: 5,003 · **Forks**: 210 · **Open issues**: 200 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-11-27 | 0 | 0 | 17 | 1 | 1 | 0 |
-| last720d | 2024-12-02 | 0 | 2 | 18 | 2 | 10 | 8 |
+| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 360d | 2025-11-28 | 0 | 0 | 17 | 1 | 1 | 0 |
+| last720d | 2024-12-03 | 0 | 2 | 18 | 2 | 10 | 8 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for MonkeyType lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:24:04Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:45:36Z._
